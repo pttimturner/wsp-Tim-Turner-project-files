@@ -30,7 +30,6 @@ width: 100%;
 
 #main {
 	height: 222px;
-	background-color: #FF0000;
 	
 }
 
@@ -55,7 +54,6 @@ width: 100%;
 #cta_block {
 	width: 93.75%;
 	height: 95px;
-	margin-left: 3.333333%;
 	margin-bottom: 5.208333%;
 
 }
@@ -79,19 +77,18 @@ aside {
 #teaser {
 	width: 43.229167%;
 	height: 135px;
-
 	float: right;
+	clear:both;
 	
 }
 
-#footer {
-	position: fixed; 
+/*footer {
+	position: absolute; 
 	bottom: 0; 
 	width:100%; 
 	height:130px;
-	background-color: #F6C;
 	
-}
+}*/
 
 
 /*----------------Media_Queries_______________*/
